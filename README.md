@@ -11,3 +11,5 @@ Final ENGL 877 Publication - Coronavirus In Lincoln
 
 [Campus Image Metadata Excel File](https://github.com/wmkyDH2020/coronavirus-in-lincoln/blob/main/Kelly%20%E2%80%93%20Dev.Rep.3.Dublin%20Core%20copy.xlsx)
 
+[Project History](https://github.com/wmkyDH2020/coronavirus-in-lincoln/commit/e94f9598fb0f0b33e93d45b083be57bd6655fb46)
+
