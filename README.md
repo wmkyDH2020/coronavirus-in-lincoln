@@ -13,3 +13,4 @@ Final ENGL 877 Publication - Coronavirus In Lincoln
 
 [Project History](https://github.com/wmkyDH2020/coronavirus-in-lincoln/commit/e94f9598fb0f0b33e93d45b083be57bd6655fb46)
 
+[Audio Files](https://github.com/wmkyDH2020/coronavirus-in-lincoln/commit/00a16872420e19cbb0383660428ccf3e42c67e00)
